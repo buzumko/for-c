@@ -37,7 +37,7 @@ int[] GetArray(int size, int minValue, int maxValue)
 }
 
 
-// Возвращает сумму положительных чисел массива arr
+// Возвращает количество чётных чисел в массиве
 int GetEvenCount(int[] arr)
 {
     int evenCount = 0;
