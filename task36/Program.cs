@@ -36,7 +36,7 @@ int[] GetArray(int size, int minValue, int maxValue)
     return res;
 }
 
-// Возвращает сумму положительных чисел массива arr
+// сумму элементов, стоящих на нечётных позициях
 int GetSum(int[] arr, int size)
 {
     int sum = 0;
