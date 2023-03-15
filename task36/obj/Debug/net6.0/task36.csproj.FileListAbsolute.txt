@@ -1,0 +1,15 @@
+C:\Users\Oksana\Documents\GB_study\Аналитик\Языки программирования введение\HW_5_C#\task36\bin\Debug\net6.0\task36.exe
+C:\Users\Oksana\Documents\GB_study\Аналитик\Языки программирования введение\HW_5_C#\task36\bin\Debug\net6.0\task36.deps.json
+C:\Users\Oksana\Documents\GB_study\Аналитик\Языки программирования введение\HW_5_C#\task36\bin\Debug\net6.0\task36.runtimeconfig.json
+C:\Users\Oksana\Documents\GB_study\Аналитик\Языки программирования введение\HW_5_C#\task36\bin\Debug\net6.0\task36.dll
+C:\Users\Oksana\Documents\GB_study\Аналитик\Языки программирования введение\HW_5_C#\task36\bin\Debug\net6.0\task36.pdb
+C:\Users\Oksana\Documents\GB_study\Аналитик\Языки программирования введение\HW_5_C#\task36\obj\Debug\net6.0\task36.csproj.AssemblyReference.cache
+C:\Users\Oksana\Documents\GB_study\Аналитик\Языки программирования введение\HW_5_C#\task36\obj\Debug\net6.0\task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oksana\Documents\GB_study\Аналитик\Языки программирования введение\HW_5_C#\task36\obj\Debug\net6.0\task36.AssemblyInfoInputs.cache
+C:\Users\Oksana\Documents\GB_study\Аналитик\Языки программирования введение\HW_5_C#\task36\obj\Debug\net6.0\task36.AssemblyInfo.cs
+C:\Users\Oksana\Documents\GB_study\Аналитик\Языки программирования введение\HW_5_C#\task36\obj\Debug\net6.0\task36.csproj.CoreCompileInputs.cache
+C:\Users\Oksana\Documents\GB_study\Аналитик\Языки программирования введение\HW_5_C#\task36\obj\Debug\net6.0\task36.dll
+C:\Users\Oksana\Documents\GB_study\Аналитик\Языки программирования введение\HW_5_C#\task36\obj\Debug\net6.0\refint\task36.dll
+C:\Users\Oksana\Documents\GB_study\Аналитик\Языки программирования введение\HW_5_C#\task36\obj\Debug\net6.0\task36.pdb
+C:\Users\Oksana\Documents\GB_study\Аналитик\Языки программирования введение\HW_5_C#\task36\obj\Debug\net6.0\task36.genruntimeconfig.cache
+C:\Users\Oksana\Documents\GB_study\Аналитик\Языки программирования введение\HW_5_C#\task36\obj\Debug\net6.0\ref\task36.dll
